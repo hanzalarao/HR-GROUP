@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Job Recruitment", "Job Recruitment\Job Recruitment.csproj", "{2FF66E36-6297-48C6-B62C-6CE0A3B71F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLayer", "DatabaseLayer\DatabaseLayer.csproj", "{F3648018-1AED-464C-BC5D-D56A62D99BA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF66E36-6297-48C6-B62C-6CE0A3B71F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF66E36-6297-48C6-B62C-6CE0A3B71F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF66E36-6297-48C6-B62C-6CE0A3B71F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF66E36-6297-48C6-B62C-6CE0A3B71F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3648018-1AED-464C-BC5D-D56A62D99BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3648018-1AED-464C-BC5D-D56A62D99BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3648018-1AED-464C-BC5D-D56A62D99BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3648018-1AED-464C-BC5D-D56A62D99BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D0E60FD-8D87-4E7F-AB28-F6A7B13E696B}
+	EndGlobalSection
+EndGlobal
